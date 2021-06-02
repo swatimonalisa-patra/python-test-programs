@@ -1,0 +1,45 @@
+(1).Input : 08:55:48PM
+
+Output : 20:55:48
+
+(2).Input :
+6 (N)
+12 (M)
+1 5 7 12 16 23 (Price of N chocolates)
+
+Output :
+2 3
+
+(3).Input :
+5 (N)
+45 78 33 97 13 (Alice’s Marks)
+66 89 23 97 54 (Bob’s Marks)
+
+Output :
+Alice 1
+Bob 3
+Bob won the competition.
+
+(4).Input
+5 (no.of words)
+New (words)
+Old
+Existing
+New
+New
+
+Output :
+New 3 3
+Old 3 1
+Existing 8 1
+
+(5).Input:
+3 (N)
+500 250 22 (Book 1)
+148 55 10 (Book 2)
+207 199 31 (Book 3)
+2 (Attribute)
+
+(6).Input : 131/265 is where I and Sam Live.
+
+Output : /. iswhereandamive ISL 1315 26 6
